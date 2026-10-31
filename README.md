@@ -8,7 +8,15 @@ I work across product strategy, engineering and growth—from the first conversa
 
 - **Operational platforms:** custom applications, CRMs and connected workflows built around how teams actually work.
 - **AI-assisted systems:** practical ways to use AI and agents in research, development and operations, with human judgment in the loop.
-- **Data and growth:** connecting information, measurement and execution so teams can make better decisions and keep improving.
+- **Revenue growth:** connecting marketing, sales, customer data and delivery so teams can find opportunities, follow through and understand what is working. That includes CRM and pipeline workflows, lead generation, analytics and ongoing optimization.
+- **Data and operations:** bringing information and tools together so teams can make better decisions and spend less time managing disconnected processes.
+
+
+## How I work
+
+I start with the business problem: where growth is getting stuck, what the team needs to decide, and what a useful outcome would look like. From there, I work with the team on the product and technical approach, shape the workflows and stay involved as we build and improve them.
+
+I use AI and agents as part of that process—from exploring ideas and developing software to researching and supporting operations. I care about clear ownership, review and verification, so the systems we build can be trusted by the people using them.
 
 A lot of my work happens in private client and internal repositories. The contribution graph below reflects GitHub activity across that work; the code and client details remain private.
 
