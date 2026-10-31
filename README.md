@@ -1,4 +1,4 @@
-# Hi, I'm Avi Kedia
+# Hi, I'm Avishek Kedia
 
 I'm the founder of [Airful](https://airful.io), where we build digital products and operating systems that help teams turn complex workflows into useful, dependable software.
 
